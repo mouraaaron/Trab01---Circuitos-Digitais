@@ -10,4 +10,4 @@ Trabalho #01 de Circuitos Digitais.
 Circuitos Digitais ministrada pelo professor Paulo Lisboa. 
 O trabalho consiste na criação de uma ALU que faz as operações de soma, subtração, multiplicação e comparação. 
 A plataforma utilizada para realização do trabalho é o Digital.jar
-Para visualizar o prijeto, abra os arquivos no Digital.jar e abra a main.dig para visualizar as operações binárias.
+Para visualizar o projeto, abra os arquivos no Digital.jar e abra a main.dig para visualizar as operações binárias.
